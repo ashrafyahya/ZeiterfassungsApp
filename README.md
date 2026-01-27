@@ -35,5 +35,5 @@ Die Zeiterfassungs-App ist eine Android-Anwendung, die Benutzern die Möglichkei
 
 ### Klonen des Repositories
 ```bash
-git clone https://github.com/ashrafyahya/zeiterfassung_app_de
+git clone https://github.com/ashrafyahya/time_recording_app
 
